@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+nav {
+    background: hotpink;
+}
+
+
 nav ul {
     list-style: none;
     display: flex;
